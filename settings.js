@@ -30,7 +30,7 @@ global.ownernomer = '+94742711007' //Owner Number <<<
 global.ownername = '😎CD Kolls' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
-global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
+global.button = '🤭Click To Joind Us📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://chat.whatsapp.com/GJcGk995BLj7iM7KndjJs1' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
